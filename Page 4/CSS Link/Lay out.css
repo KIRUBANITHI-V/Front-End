@@ -1,0 +1,27 @@
+a p::first-line {
+    color: blue;
+}
+a h1::first-letter{
+    color: green;
+}
+a.link{
+    color: blueviolet;
+}
+a:visited {
+    color: brown;
+}
+a:hover {
+    color: black;
+}
+h2::after{
+    content:"whatsapp";
+    color: red;
+}
+h3::before{
+    content: "twitter";
+    color: yellow;
+}
+
+ul ::marker {
+    color: pink;
+} 

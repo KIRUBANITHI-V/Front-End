@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    align-items: center;
+    border-top: 10%;
+}
+
+table {
+    position: absolute;
+    padding:60px;
+    border-spacing:0px;
+    top: 10%;  
+    
+}
+table td {
+    width: 200px;
+    padding: 15px;
+}
+table tr:nth-child(odd) {
+    background-color: rgb(199, 197, 194);
+    padding: 10px;
+}
+.s1 button {
+    color: white;
+    background-color: green;
+    padding: 10px;
+}
+.s2 button {
+    background-color:yellow;
+    padding: 10px;
+}
+.s3 button {
+    color: white;
+    background-color: rgb(204, 24, 24);
+    padding: 10px;
+}
+
+
+

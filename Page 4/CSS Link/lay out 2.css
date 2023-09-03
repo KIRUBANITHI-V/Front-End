@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    margin-top: 5%;
+    
+}
+.s1 {
+    position: absolute;
+    top: 20%;
+}
+.s1 button{
+    display: block;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: rgb(211, 77, 100);
+    width: 700px;
+    color: aliceblue;
+}
+.s1 {
+    justify-content: center;
+}

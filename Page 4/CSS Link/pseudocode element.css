@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+ }
+ .container{
+    position: absolute;
+    top: 30%;
+ }
+ .container span{
+    color: red;
+ }
+ .container h1::after{
+    content: ".";
+    
+ 
+ }

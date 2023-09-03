@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(pink,purple);
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+table {
+    position: absolute;
+   
+    background-color: rgb(78, 161, 161);
+    color: white;
+}
+td {
+    width: 200px;
+    padding: 20px;
+}
+th {
+    font-size: 200%;
+    padding: 20px;
+}
+table tr:nth-child(2) {
+    background-color: rgb(89, 134, 119);
+}

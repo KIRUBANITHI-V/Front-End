@@ -1,0 +1,88 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFjJnbFczg6pDSN5Rle0A4CXNu9G7qGTZvEQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.s1 {   
+   position: absolute;
+   display: flex;
+   gap: 4rem;
+   top: 20%;
+   left: 20%;
+}
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.Box1 img{
+    display: flex; 
+    height: 90%;
+    width:140px;
+    margin-top: 4%;
+    margin-left: 4%;
+}
+.Box1 {
+    height:100px;
+    width:150px;
+    background-color: green;
+}
+.Box1:hover {
+    background-color: red;
+}
+.Box2 {
+    height:100px;
+    width: 150px;
+    background-color: green;
+}.Box2:hover {
+    background-color: red;
+}
+.Box3 {
+    height:100px;
+    width: 150px;
+    background-color: green;
+}.Box3:hover {
+    background-color: red;
+}
+.Box4 {
+    height:100px;
+    width: 150px;
+    background-color: green;
+}.Box4:hover {
+    background-color: red;
+}
+.Box5 {
+    height:100px;
+    width: 150px;
+    background-color:orange;
+}.Box5:hover {
+    background-color: red;
+}
+.Box6 {
+    height:100px;
+    width: 150px;
+    background-color:orange;
+}.Box6:hover {
+    background-color: red;
+}
+.Box7 {
+    height:100px;
+    width: 150px;
+    background-color:orange;
+}.Box7:hover {
+    background-color: red;
+}
+.s2 {   
+    justify-content: center; 
+    position: absolute;
+    display: flex;
+    gap: 4rem;
+    top: 50%;
+    left: 20%;
+}
+.s3 {
+    position: absolute;
+    top: 90%;
+    left: 15%;
+}
