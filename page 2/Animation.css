@@ -1,0 +1,51 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+.step {
+    position: sticky;
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+}
+.step1 li{
+    display:inline;
+    position:relative;
+    top: 20px;
+    list-style-type: none;
+}
+.step1 li a{
+    color: aliceblue;
+    padding: 20px;
+}
+.step1 a:hover {
+    background-color: aqua;
+    color: black;
+}
+.step1 i{
+    float: right;
+    color: aliceblue;
+    right: 7%;
+    position: absolute;
+    padding:20px ;
+}
+.step1 i:hover{
+    background-color: red;
+    color: black;
+}
+.step2 img {
+width: 80%;
+height: 75%;
+}
+.step2 h1 {
+    position: absolute;
+    left: 35%;
+    top: 80%;
+    color: aqua;
+    font-style: inherit;
+}
