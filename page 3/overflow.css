@@ -1,0 +1,6 @@
+h1 {
+    white-space : nowrap;
+    overflow: hidden;
+    width:60px;
+    border: 2px solid blue;
+}
