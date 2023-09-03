@@ -1,0 +1,7 @@
+p{
+    padding: 36ch;
+    border: 20px solid black;
+    background-color: orangered;
+    border-radius: 50px;
+    clip-path: circle();
+}

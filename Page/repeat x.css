@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGd2qwuGjaoSZ45jHgwDiE1_yU-StupXRBA&usqp=CAU);
+    background-repeat: repeat-x;
+    padding: 0;
+}
+pre {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}

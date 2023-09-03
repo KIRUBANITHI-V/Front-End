@@ -1,0 +1,30 @@
+body {
+   background-image: url(https://images.unsplash.com/photo-1543497415-75c0a27177c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=6);
+   background-repeat: no-repeat;
+   background-size: 40%;
+   width: 40%;
+
+}
+.s1 h1 {
+    text-align: center;
+    color: rgb(0, 3, 5);
+}
+.s1 p {
+    text-align: center;
+}
+.s2 button {
+    padding: 4px;
+    position: absolute;
+    height: 5%;
+    width: 7%;
+    top: 40%;
+    left: 15%;
+    background-color: yellow;
+}
+.s2 >.s4 {
+    text-decoration: underline;
+    text-align: center;
+    top: 50%;
+    left: 13%;
+    position: absolute;
+}

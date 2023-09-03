@@ -1,0 +1,12 @@
+body  {
+    background-image: url(https://i.pinimg.com/originals/cd/b7/53/cdb7533d573fd73b50c395e4917be279.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.s1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    text-shadow: greenyellow;
+    font-size: 100%;
+}
