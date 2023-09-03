@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+         Story
+        </title>
+       
+    </head>
+    <body>
+
+        <table border="1px" height="200px" width="400px">
+            <tr>
+                <td>Customer ID:</td>
+               <td> <center><input type="text"></center></td>
+            </tr>
+            <tr>
+                <td>Company Name:</td>
+                <td><center><input type="text"></center></td>
+            </tr>
+            <tr>
+                <td>Contant Name:</td>
+                <td><center><input type="text"></center></td>
+            </tr>
+            <tr>
+                <td>Country:</td>
+                <td><center><input type="text"></center></td>
+            </tr>
+            <tr>
+                <td colspan="2"><button>Save</button>
+                <button>Cancel</button></td>
+            </tr>
+         </table>
+        
+        
+        
+
+ 
+       
+
+        
+</body>
+</html>
