@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  background-image: url(https://img.freepik.com/premium-vector/man-left-cardboard-boxes-with-goods-near-house-facade_441769-124.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box1 {
+  font-size: 40px;
+}
+.s1{
+ display: flex;
+ justify-content: right;
+ 
+}
+.s1 li{
+  display: inline;
+  list-style-type: none;
+  padding:20px;
+}
+.s1 li a {
+  color: red;
+}
+.s1 button {
+  padding: 10px;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+}
+.s2 {
+  position: absolute;
+  display: flex;
+  left: 10%;
+  top: 20%;
+}
+.s2 span {
+  font-size: 300%;
+  top: 40%;
+  left: 10%;
+}
+.s2 h1{
+  font-size: 300%;
+  font-weight: bold;
+  top: 30%;
+  left: 10%;
+}
+.s3 {
+  position: absolute;
+  top: 40%;
+  left:10%;
+}
+.s3 button {
+  padding: 20px;
+  background-color: orange;
+  color: white;
+  
+  border-radius: 5px;
+}

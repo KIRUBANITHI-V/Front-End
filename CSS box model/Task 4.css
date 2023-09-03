@@ -1,0 +1,32 @@
+
+body {
+    display: flex;
+    gap: 2rem;
+}.box1 p {
+    height: 220px;
+    width: 202px;
+    background-color: aquamarine;
+}
+.box2 p{
+    height: 250px;
+    width: 220px;
+    padding: 3px;
+    background-color: aquamarine;
+    border: 20px solid blue;
+    font-size: 20px;
+}
+.box3 p{
+    height: 290px;
+    width: 260px;
+    padding: 5px;
+    background-color: aquamarine;
+    border: 20px solid blue;
+    font-size: 25px;
+}.box4 p{
+    height: 350px;
+    width: 300px;
+    padding:10px;
+    background-color: aquamarine;
+    border: 20px solid blue;
+    font-size: 30px;
+}

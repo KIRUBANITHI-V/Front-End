@@ -1,0 +1,40 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7dCSVnZkJ5kdnsxuyurRj9X699Jorqa8Ug&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1 img{
+    position: absolute;
+    height: 40%;
+    width: 25%;
+    border-radius: 50% 50% 0% 50%;
+    left: 23%;
+}
+.img2 img{
+    position: absolute;
+    height: 40%;
+    width: 25%;
+    border-radius: 50% 50% 50% 0%;
+    top: 0%;
+    left: 50%;
+}
+.img3 img{
+    position: absolute;
+    height: 40%;
+    width: 25%;
+    border-radius: 50% 0% 50% 50%;
+    top: 42%;
+    left: 23%;
+}
+.img4 img{
+    position: absolute;
+    height: 40%;
+    width: 25%;
+    border-radius: 0% 50% 50% 50%;
+    top: 42%;
+    left: 50%;
+}

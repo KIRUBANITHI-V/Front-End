@@ -1,0 +1,53 @@
+*{
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+}
+body {
+   background-color: rgb(12, 247, 247);
+}
+h1 {
+   font-size: 50px;
+   color: rgb(54, 54, 49);
+}
+.s1 {
+   display: flex;
+   float: right;
+   margin-top: -1%;
+}
+.s1 li {
+   display: inline;
+   font-style: italic;
+   font-size: 20px;
+   padding: 10px;
+}
+.s2 {
+   position: absolute;
+   justify-content: center;
+   top: 35%;
+   left: 30%;
+}
+.s2 h2 {
+   position: absolute;
+   font-size: 30px;
+   left: 15%;
+   top: 35%;
+}
+.s2 h3 {
+   position: absolute;
+   font-size: 30px;
+   left: 19%;
+   top: 130%;
+}
+.s2 p {
+   position: relative;
+   top: 90px;;
+   left: -20%;
+}
+.s2 button {
+   position: absolute;
+   top:700%;
+   left: 18%;
+   padding: 10px;
+   background-color: rgb(115, 126, 126);
+}

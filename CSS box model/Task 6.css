@@ -1,0 +1,88 @@
+* {
+ margin: 0;
+ padding: 0;   
+}
+body {
+    background-color: rgb(33, 3, 61);
+}
+.box1 {
+    position: absolute;
+    height: 60%;
+    width: 200%;
+    left: 20%;
+    top: 20%;
+    background-image: linear-gradient(to right,rgb(238, 92, 116), blue);
+    background-size: 100vh;
+    background-repeat: no-repeat;
+}
+.box2 {
+    position: absolute;
+    height: 53%;
+    width: 20%;
+    left: 22%;
+    top: 23%;
+    background-color: black;
+    border-radius: 10px;
+}
+.box2 img {
+    position: absolute;
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+    left: 22%;
+    top: 2%;
+}
+.box2 h1 {
+    position: absolute;
+    font-size: 20px;
+    background: -webkit-linear-gradient(#eee, #333);
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    top: 50%;
+    left: 30%;
+}
+.box2 h2 {
+    position: absolute;
+    color: white;
+    left: 25%;
+    top: 70%;
+    font-size: 18px;
+ }
+ .box3 {
+    position: absolute;
+    height: 53%;
+    width: 25%;
+    left: 44%;
+    top: 23%;
+    background-color: black;
+    border-radius: 10px;
+}
+ 
+ 
+ .box3 h2 {
+        position:absolute;
+        font-size: 72px;
+        background: -webkit-linear-gradient(#5f1717, #eee5e5);
+        /* -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; */
+        top: 15%;
+        left: 23%;
+        font-size: 20px;
+      }
+.box3 table {
+        position: absolute;
+        top: 35%;
+        left: 17%;
+        font-size: 20px;
+        color: rgb(247, 253, 251);
+      }
+      .box1 h1 {
+        position: absolute;
+        top: 90%;
+ } 
+ p {
+    color: antiquewhite;
+    position: absolute;
+    left: 47%;
+    top:70%;
+ }
