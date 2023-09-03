@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(rgb(16, 236, 16),rgb(2, 61, 2));
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+    p {
+        position: absolute;
+        left: 40%;
+        top: 68%;
+        font-size: x-large;
+    }
+
+.box1 {
+    height:55%;
+    width: 65%;
+    background-image: linear-gradient(rgb(153, 219, 153),rgb(14, 187, 14));
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 17%;
+    top: 14%;
+    border-radius: 10px;
+}
