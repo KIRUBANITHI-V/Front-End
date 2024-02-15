@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://static.scientificamerican.com/sciam/cache/file/370498B3-414B-453A-AF730A98D97D3A62_source.jpg?w=600);
+}
+
+header h1 {
+    font-size: 40px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+main{
+    height: 50%;
+    width: 25%; 
+    background-image:url(https://static.scientificamerican.com/sciam/cache/file/9500DFFF-C2CB-4B66-839718537F898FFD_source.jpg);
+    
+    text-align: center;
+    border: 2px solid; 
+    position:absolute;
+    left: 30%;
+    top: 27%;
+    padding: 10px;
+}
+
+section{
+    padding: 2%;
+    /* width: 80%; */
+     height: 30%; 
+     
+}
+.a{
+    height: 90%;
+}
+input{
+     border-radius: 10%;
+     width: 50%;
+     height: 30%;
+     text-align: center;
+}
+#b{
+    color: rgb(241, 56, 14);
+    text-shadow: 10px;
+    font-size: 350%;
+    
+}
+#b{
+    height: 10%;
+    width: 20%;
+}
